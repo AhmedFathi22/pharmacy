@@ -1,0 +1,15 @@
+C:\Users\elbostan\Desktop\الصيدليه4\bin\Debug\net6.0\الصيدليه4.exe
+C:\Users\elbostan\Desktop\الصيدليه4\bin\Debug\net6.0\الصيدليه4.deps.json
+C:\Users\elbostan\Desktop\الصيدليه4\bin\Debug\net6.0\الصيدليه4.runtimeconfig.json
+C:\Users\elbostan\Desktop\الصيدليه4\bin\Debug\net6.0\الصيدليه4.dll
+C:\Users\elbostan\Desktop\الصيدليه4\bin\Debug\net6.0\الصيدليه4.pdb
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\الصيدليه4.csproj.AssemblyReference.cache
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\الصيدليه4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\الصيدليه4.AssemblyInfoInputs.cache
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\الصيدليه4.AssemblyInfo.cs
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\الصيدليه4.csproj.CoreCompileInputs.cache
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\الصيدليه4.dll
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\refint\الصيدليه4.dll
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\الصيدليه4.pdb
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\الصيدليه4.genruntimeconfig.cache
+C:\Users\elbostan\Desktop\الصيدليه4\obj\Debug\net6.0\ref\الصيدليه4.dll
